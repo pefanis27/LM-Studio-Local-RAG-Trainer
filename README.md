@@ -108,58 +108,19 @@ You can:
 The application supports a broad range of text, document, data, and code files.
 
 ### Text and markup
-- `.txt`
-- `.md`
-- `.markdown`
-- `.rst`
-- `.log`
+- `.txt`, `.md`,`.markdown`,`.rst`,`.log`
 
 ### Documents
-- `.pdf`
-- `.docx`
-- `.rtf`
+- `.pdf`,`.docx`,`.rtf`
 
 ### Data and structured text
-- `.json`
-- `.jsonl`
-- `.csv`
-- `.tsv`
-- `.xml`
-- `.yaml`
-- `.yml`
-- `.toml`
-- `.ini`
-- `.cfg`
-- `.env`
-- `.sql`
-- `.tex`
-- `.html`
-- `.htm`
+- `.json`,`.jsonl`,`.csv`,`.tsv`,`.xml`,`.yaml`,`.yml`,`.toml`,`.ini`
+- `.cfg`,`.env`,`.sql`,`.tex`,`.html`,`.htm`
 
 ### Code and notebooks
-- `.py`
-- `.ipynb`
-- `.js`
-- `.ts`
-- `.tsx`
-- `.jsx`
-- `.java`
-- `.c`
-- `.cpp`
-- `.cc`
-- `.h`
-- `.hpp`
-- `.cs`
-- `.go`
-- `.rs`
-- `.php`
-- `.rb`
-- `.swift`
-- `.kt`
-- `.scala`
-- `.sh`
-- `.bat`
-- `.ps1`
+- `.py`,`.ipynb`,`.js`,`.ts`,`.tsx`,`.jsx`,`.java`
+- `.c`,`.cpp`,`.cc`,`.h`,`.hpp`,`.cs`,`.go`,`.rs`
+- `.php`,`.rb`,`.swift``.kt`,`.scala`,`.sh`,`.bat`,`.ps1`
 
 ## Local Storage Layout
 
